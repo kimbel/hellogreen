@@ -1,0 +1,41 @@
+{
+  "name": "hellogreen",
+  "version": "1.0.0",
+  "description": "Green Code Lab Challenge",
+  "main": "server/server.js",
+  "scripts": {
+    "postinstall": "echo bower intall",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/percenuage/hellogreen.git"
+  },
+  "keywords": [
+    "Green",
+    "Code",
+    "Lab",
+    "Challenge"
+  ],
+  "author": "Axel Gendillard <agendillard@gmail.com>",
+  "contributors": [
+    "Axel Gendillard <agendillard@gmail.com>",
+    "Kim Belassen <kim.belassen@gmail.com>",
+    "Valentine Violante <valentine.violante@yahoo.fr>",
+    "José Marechal <jossmarech@hotmail.fr>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/percenuage/hellogreen/issues"
+  },
+  "homepage": "https://github.com/percenuage/hellogreen#readme",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1"
+  }
+}
