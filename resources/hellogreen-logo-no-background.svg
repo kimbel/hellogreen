@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="292.15146"
+   height="416.48135"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hellogreen-logo-no-background.svg"
+   inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/logo.png"
+   inkscape:export-xdpi="108.12885"
+   inkscape:export-ydpi="108.12885">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4063" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-9.6193003"
+     inkscape:cy="153.03102"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-302.20998,-157.89789)">
+    <g
+       id="g3937">
+      <g
+         id="g3765" />
+      <g
+         id="g3825">
+        <path
+           style="fill:#88c043;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 339.92428,193.80314 c 43.80551,24.81304 69.27213,44.88533 83.22326,61.98056 -7.14448,31.46202 -44.41669,32.89777 -58.04547,32.01521 2.79048,-1.42704 5.11879,-3.13628 5.94438,-5.76265 -3.41977,-2.67021 -15.54545,-0.28134 -24.0109,-5.5066 3.25189,-0.74019 4.77297,-1.46126 6.29406,-4.0979 -7.99805,-2.80259 -16.61306,-5.21774 -21.6797,-9.86047 2.73434,0.0371 5.28725,0.67205 8.85807,-2.04895 -7.16382,-4.24155 -14.80793,-7.60308 -20.74683,-14.0863 3.70389,-0.0996 7.69698,-0.0402 8.85807,-1.53669 -6.55652,-4.4629 -12.08862,-9.42629 -16.66786,-14.85483 5.18332,0.68744 7.37205,0.0955 8.62533,-0.89644 -4.95626,-5.57743 -11.22924,-10.28689 -14.21997,-17.15969 3.84855,1.45736 7.36947,2.01523 9.90762,-0.12806 -1.68419,-4.17447 -8.89997,-6.63665 -13.05436,-16.39187 4.0515,0.43163 8.34876,0.97117 9.20813,0 -1.88056,-8.41764 -5.10725,-13.1499 -8.27204,-18.05287 8.67111,-0.14167 21.80864,0.0368 21.21359,-0.76853 l -5.36158,-6.01878 c 8.46996,-2.50546 17.13655,0.40244 23.4281,2.5612 2.82497,-2.44914 -0.05,-5.54612 -3.49668,-8.70804 7.19798,1.05581 13.70228,2.87392 19.58122,5.37853 3.1412,-3.1161 -2.03974,-6.23227 -4.54572,-9.34837 11.12029,2.31804 15.8317,5.57495 20.51409,8.83626 3.39714,-3.57757 0.19448,-6.61802 -2.09802,-9.73228 8.38486,3.41197 12.70365,7.81699 17.25066,12.16535 1.54159,-2.28581 3.91644,-3.9612 1.04905,-9.47658 5.95321,3.77016 10.43691,8.21294 13.75385,13.19028 3.68338,-2.57679 2.19447,-6.10073 2.21458,-9.34837 6.18685,5.52948 10.11328,11.41382 14.91946,17.15969 0.96813,-0.77447 1.81584,-3.40113 2.56426,-7.55562 14.76022,15.73314 35.61665,55.36064 5.36158,71.07252 -25.74899,-23.33196 -56.50079,-40.29119 -90.5792,-53.01327 z"
+           id="path3874"
+           inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/hellogreen-logo_v2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#88c043;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 556.64071,193.08885 c -43.80036,24.81517 -69.26569,44.88179 -83.21682,61.98056 7.14448,31.46202 44.41669,32.89777 58.04547,32.01521 -2.79048,-1.42704 -5.11879,-3.13628 -5.94438,-5.76265 3.41977,-2.67021 15.54546,-0.28134 24.0109,-5.5066 -3.25189,-0.74019 -4.77297,-1.46126 -6.29406,-4.0979 7.99805,-2.80259 16.61306,-5.21774 21.6797,-9.86047 -2.73433,0.0371 -5.28725,0.67205 -8.85807,-2.04895 7.16382,-4.24155 14.80793,-7.60308 20.74683,-14.0863 -3.70388,-0.0996 -7.69698,-0.0402 -8.85807,-1.53669 6.55652,-4.4629 12.08862,-9.42629 16.66787,-14.85483 -5.18333,0.68744 -7.37206,0.0955 -8.62534,-0.89644 4.95627,-5.57743 11.22925,-10.28689 14.21997,-17.15969 -3.84855,1.45736 -7.36947,2.01523 -9.90762,-0.12806 1.68419,-4.17447 8.89997,-6.63665 13.05436,-16.39187 -4.0515,0.43163 -8.34876,0.97117 -9.20813,0 1.88398,-8.42118 5.11079,-13.15345 8.27526,-18.05642 -8.6711,-0.14147 -21.80863,0.0371 -21.21358,-0.76838 l 5.36158,-6.01878 c -8.46996,-2.50546 -17.13655,0.40244 -23.4281,2.5612 -2.82498,-2.44914 0.05,-5.54612 3.49668,-8.70804 -7.19799,1.05581 -13.70228,2.87392 -19.58123,5.37853 -3.14119,-3.1161 2.03974,-6.23227 4.54573,-9.34837 -11.12029,2.31804 -15.8317,5.57495 -20.5141,8.83626 -3.39714,-3.57757 -0.19448,-6.61802 2.09802,-9.73228 -8.38486,3.41197 -12.70365,7.81699 -17.25066,12.16535 -1.54159,-2.28581 -3.91644,-3.9612 -1.04904,-9.47658 -5.95322,3.77016 -10.43692,8.21294 -13.75386,13.19028 -3.68338,-2.57678 -2.19446,-6.10073 -2.21458,-9.34837 -6.18685,5.52948 -10.11328,11.41382 -14.91946,17.15969 -0.96813,-0.77447 -1.81583,-3.40113 -2.56426,-7.55562 -14.76022,15.73314 -35.61664,55.36064 -5.36158,71.07252 25.73545,-23.33692 56.48532,-40.29473 90.56631,-53.01681 z"
+           id="path3876"
+           inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/hellogreen-logo_v2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/hellogreen-logo_v2.png"
+         transform="matrix(0.10476568,0.99449693,-0.99449693,0.10476568,531.59962,90.312454)"
+         inkscape:transform-center-y="-1.4083293"
+         inkscape:transform-center-x="-14.200016"
+         d="M 228.57143,239.50505 167.69691,102.08565 256.26833,-19.342926 405.71428,-3.3521091 466.5888,134.06729 378.01737,255.49586 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.724589"
+         sodipodi:arg1="2.2009902"
+         sodipodi:r2="121.59446"
+         sodipodi:r1="150.29903"
+         sodipodi:cy="118.07647"
+         sodipodi:cx="317.14285"
+         sodipodi:sides="6"
+         id="path2987"
+         style="fill:#fff000;fill-opacity:0;fill-rule:evenodd;stroke:#bc1142;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="star" />
+      <g
+         id="g3805">
+        <text
+           xml:space="preserve"
+           style="font-size:22.90063477px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bc1142;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.23911"
+           y="528.6405"
+           id="text4149"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0384333,0.96298915)"
+           inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/hellogreen-logo_v2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan4151"
+             x="363.23911"
+             y="528.6405">Hell   Green</tspan></text>
+        <path
+           sodipodi:type="star"
+           style="fill:#fff000;fill-opacity:0;fill-rule:evenodd;stroke:#bc1142;stroke-width:36.92678833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-0"
+           sodipodi:sides="6"
+           sodipodi:cx="317.14285"
+           sodipodi:cy="118.07647"
+           sodipodi:r1="150.29903"
+           sodipodi:r2="121.59446"
+           sodipodi:arg1="2.2009902"
+           sodipodi:arg2="2.724589"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 228.57143,239.50505 167.69691,102.08565 256.26833,-19.342926 405.71428,-3.3521091 466.5888,134.06729 378.01737,255.49586 z"
+           inkscape:transform-center-x="-0.55784353"
+           inkscape:transform-center-y="-0.054545773"
+           transform="matrix(0.00411571,0.03851949,-0.03906873,0.00405785,433.31175,490.13097)"
+           inkscape:export-filename="/home/axel/Documents/Green Code Lab Challenge/logo/hellogreen-logo_v2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <text
+         transform="scale(0.89111588,1.1221885)"
+         sodipodi:linespacing="125%"
+         id="text3870"
+         y="425.47592"
+         x="387.54678"
+         style="font-size:152.62135315px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bc1142;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="425.47592"
+           x="387.54678"
+           id="tspan3872"
+           sodipodi:role="line">HG</tspan></text>
+    </g>
+  </g>
+</svg>

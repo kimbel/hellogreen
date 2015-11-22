@@ -1,0 +1,16 @@
+.color-green {
+	color: #88c043;
+}
+
+.color-red {
+	color: #bc1142;
+}
+
+.logo {
+    /*display: block;*/
+	/*text-indent: -9999px;*/
+	width: 200px;
+	height: 200px;
+	background: url(../resources/hellogreen-logo-no-background.svg);
+	background-size: 200px 200px;
+}
