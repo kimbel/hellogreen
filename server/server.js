@@ -20,9 +20,11 @@ app.use(bodyParser.json({ type: 'application/vnd.api+json' })); // parse applica
 app.use(methodOverride());
 app.use(cookieParser());
 
+app.use(express.static('./client')); // set the folder client/ as static root and auto load index.html
+
 // load the routes =================
 
-require('./routes/index.route')(app);
+//require('./routes/index.route')(app);
 
 // listen (start app with node server.js) ======================================
 var server = app.listen(3000, 'localhost', function() {

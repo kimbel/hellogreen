@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "echo bower intall",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js"
+    "start": "nodemon server/server.js"
   },
   "repository": {
     "type": "https",
