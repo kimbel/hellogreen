@@ -22,14 +22,15 @@ app.use(cookieParser());
 
 app.use(express.static('./client')); // set the folder client/ as static root and auto load index.html
 
+var port = process.env.PORT || 3000;
+var host = process.env.HOST || '0.0.0.0'
+
 // load the routes =================
 
 //require('./routes/index.route')(app);
 
 // listen (start app with node server.js) ======================================
-var server = app.listen(3000, 'localhost', function() {
-	var host = server.address().address;
-	var port = server.address().port;
+app.listen(port, host, function() {
 	console.log("App listening at http://%s:%s", host, port);
 });
 
